@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{224:function(e,n,t){"use strict";t.r(n);var l={name:"IndexPage",head:function(){return{title:"学校首页4"}}},r=t(42),component=Object(r.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("Helloword")])}),[],!1,null,null,null);n.default=component.exports}}]);

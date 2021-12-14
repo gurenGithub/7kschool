@@ -17,6 +17,6 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
- 
+    "@nuxt/core": "^2.15.8"
   }
 }
